@@ -6,20 +6,19 @@
 
 # 🧑‍🏫 **Professores**
 
-## 🔵 **Professor de Redes**
-| Foto | Nome | Descrição |
-|------|------|-----------|
-| <img src="img/Kenji.jpg" width="120"> | **Kenji Taniguchi** | Kenji Taniguchi é especialista em Segurança Cibernética e Desenvolvimento Web, com ampla experiência em gestão de equipes, consultoria em TI e docência universitária. Fluente em cinco idiomas, ele combina visão global, domínio técnico e habilidade didática, tornando suas aulas na Alpha EdTech uma oportunidade única para aspirantes que desejam unir prática, inovação e excelência no aprendizado tecnológico. |
+## 🔵 Professor de Redes
 
+| Foto | Nome | Descrição |
+|:---:|:---:|:---|
+| ![Foto do Kenji](img/Kenji.jpg) | **Kenji Taniguchi** | Kenji Taniguchi é especialista em Segurança Cibernética e Desenvolvimento Web, com ampla experiência em gestão de equipes, consultoria em TI e docência universitária. Fluente em cinco idiomas, ele combina visão global, domínio técnico e habilidade didática, tornando suas aulas na Alpha EdTech uma oportunidade única para aspirantes que desejam unir prática, inovação e excelência no aprendizado tecnológico. |
 
 ---
 
-## 🟣 **Professor de Controle de Versão**
-| Foto | Nome | Descrição |
-|------|------|-----------|
-| ![Foto do professor de Git](img/Felipe-small.jpg) | **Felipe Ozias** | Felipe Ozias é desenvolvedor Full Stack e professor de TI no Instituto Alpha Lumen, com sólida formação técnica pela Universidade Federal do Rio Grande do Norte e experiência em desenvolvimento web. |
+## 🟣 Professor de Controle de Versão
 
- |
+| Foto | Nome | Descrição |
+|:---:|:---:|:---|
+| ![Foto do professor de Git](img/Felipe-small.jpg) | **Felipe Ozias** | Felipe Ozias é desenvolvedor Full Stack e professor de TI no Instituto Alpha Lumen, com sólida formação técnica pela Universidade Federal do Rio Grande do Norte e experiência em desenvolvimento web. |
 
 ---
 
