@@ -18,7 +18,7 @@
 
 | Foto | Nome | Descrição |
 |:---:|:---:|:---|
-| ![Foto do professor de Git](img/Felipe-small.jpg) | **Felipe Ozias** | Felipe Ozias é desenvolvedor Full Stack e professor de TI no Instituto Alpha Lumen, com sólida formação técnica pela Universidade Federal do Rio Grande do Norte e experiência em desenvolvimento web. |
+| ![Foto do professor de Git](img/Felipe.jpg) | **Felipe Ozias** | Felipe Ozias é desenvolvedor Full Stack e professor de TI no Instituto Alpha Lumen, com sólida formação técnica pela Universidade Federal do Rio Grande do Norte e experiência em desenvolvimento web. |
 
 ---
 
@@ -35,8 +35,7 @@ O conteúdo abaixo está organizado pelos módulos estudados.
 # 🔵 **Módulo 1 — Introdução às Redes e à Internet (10 aulas)**  
 > *Resumo organizado de cada aula.*
 
-### 📘 **Aula 1 –**  
-# Aula 01 — Conceitos Fundamentais de Redes de Computadores
+# 📘 Aula 01 — Conceitos Fundamentais de Redes de Computadores
 
 ## Introdução
 A aula apresenta os princípios básicos que sustentam as redes de computadores e explica como elas moldam a comunicação digital no mundo atual.
@@ -151,8 +150,7 @@ Transição de páginas estáticas para ambientes interativos.
 - Personalização profunda  
 
 
-### 📘 **Aula 2 –**  
-# Aula 02 — Protocolos de Comunicação em Redes
+# 📘Aula 02 — Protocolos de Comunicação em Redes
 
 ### **Topologia utilizada pelos backbones da internet**
 Aprendi que os backbones utilizam principalmente topologias em malha, garantindo redundância e alta confiabilidade. Isso é essencial para evitar falhas em larga escala.
@@ -183,10 +181,7 @@ Ou seja, ML é um subconjunto da IA.
 
 
 
-### 📘 **Aula 3 –**  
-# 🎯 AULA 03 – Endereçamento IP, Sub-redes e Portas
-
-## PRINCIPAIS TEMÁTICAS
+# 📘 AULA 03 – Endereçamento IP, Sub-redes e Portas
 
 ### 🔧 Correção da atividade da aula 2
 Revisei os exercícios da aula anterior para reforçar os conceitos de IP, máscara e roteamento. Isso me ajudou a confirmar se eu estava aplicando tudo corretamente.
@@ -222,10 +217,8 @@ O TLS é importante porque criptografa os dados, deixando a comunicação mais s
 Aprendi que contratos inteligentes são programas que rodam dentro de blockchains. Eles executam regras automaticamente quando certas condições são atendidas, sem precisar de intermediários. É como um contrato digital autoexecutável.
 
 
-### 📘 **Aula 4 –**  
-# 🎯 AULA 04 – Serviços e Aplicações na Internet
+# 📘 AULA 04 – Serviços e Aplicações na Internet
 
-## PRINCIPAIS TEMÁTICAS
 
 ---
 
@@ -278,10 +271,7 @@ Entendi que a VPN cria um túnel criptografado entre meu dispositivo e outro ser
 
 
 
-### 📘 **Aula 5 –**  
-# 🎯 AULA 05 – Serviços e Aplicações na Internet
-
-## PRINCIPAIS TEMÁTICAS
+# 📘 AULA 05 – Serviços e Aplicações na Internet
 
 ---
 
@@ -360,10 +350,7 @@ Entendi que os dados precisam ser enviados de forma segura, geralmente com cript
 
 
 
-### 📘 **Aula 6 –**  
-# 🎯 AULA 06 – DNS
-
-## PRINCIPAIS TEMÁTICAS
+# 📘  AULA 06 – DNS
 
 ---
 
@@ -416,10 +403,7 @@ Existem diferentes categorias de domínio (.com, .org, .br etc.), cada uma com s
 O processo envolve escolher um nome, verificar disponibilidade e registrar através de uma empresa credenciada.
 
 
-### 📘 **Aula 7 –**  
-# 🎯 AULA 07 – Arquitetura da Internet
-
-## PRINCIPAIS TEMÁTICAS
+# 📘 AULA 07 – Arquitetura da Internet
 
 ---
 
@@ -452,10 +436,7 @@ Isso torna o multicast muito eficiente para aplicações como streaming, eventos
 
 
 
-### 📘 **Aula 8 –**  
-# 🎯 AULA 08 – Redes de Computadores
-
-## PRINCIPAIS TEMÁTICAS
+# 📘 AULA 08 – Redes de Computadores
 
 ---
 
@@ -536,10 +517,7 @@ Vimos como seria implementar esse tipo de estrutura, entendendo a lógica da pas
 
 
 
-### 📘 **Aula 9 –**  
-# 🎯 AULA 09 – Segurança de Redes
-
-## PRINCIPAIS TEMÁTICAS
+# 📘  AULA 09 – Segurança de Redes
 
 ---
 
@@ -607,10 +585,7 @@ Além de facilitar o desenvolvimento, ajuda a evitar ataques como SQL Injection,
 
 
 
-### 📘 **Aula 10 –**  
-# 🎯 AULA 10 – Segurança na Web
-
-## PRINCIPAIS TEMÁTICAS
+# 📘 AULA 10 – Segurança na Web
 
 ---
 
@@ -642,14 +617,11 @@ Aprendi que o MD5 já foi muito usado, mas hoje é considerado inseguro. Ele pod
 # 🟣 **Módulo 2 — Controle de Versão (4 aulas)**  
 > *Resumo das aulas de Git.*
 
-### 📝 **Aula 1 –**  
-# 🎯 AULA 1 - Controle de versão - Git, VSCode e GitLens
+# 📝 AULA 1 - Controle de versão - Git, VSCode e GitLens
 
 Nesta primeira aula eu aprendi os fundamentos do Git e como usar o VSCode e o GitLens para visualizar melhor tudo o que acontece no meu repositório. Foi a base para entender versionamento de verdade.
 
 ---
-
-## 📌 PRINCIPAIS TEMÁTICAS
 
 ### 🛠️ Local de configurações do Git
 Aprendi que o Git guarda configurações em três níveis:
@@ -730,22 +702,15 @@ O GitLens no VSCode ajudou muito porque:
 
 Ele é praticamente um "raio-x" do Git dentro do VSCode.
 
----
-
-### 🏁 Desafio de Git
-No final, fizemos um desafio para colocar tudo em prática: criar arquivos, editar, commitar, desfazer mudanças, usar o GitLens e testar o funcionamento do versionamento.
 
 ---
 
 
-### 📝 **Aula 2 –**  
-# 🎯 AULA 2 - Controle de Versão — Branches e Merge
+# 📝  AULA 2 - Controle de Versão — Branches e Merge
 
 Nesta aula eu aprofundei meu entendimento sobre como trabalhar com múltiplas linhas de desenvolvimento no Git, como lidar com conflitos e como manter o controle das alterações feitas no projeto.
 
 ---
-
-## 📌 PRINCIPAIS TEMÁTICAS
 
 ### 🌿 Branches
 As **branches** são como "linhas paralelas" de desenvolvimento.  
@@ -842,7 +807,7 @@ Depois é só fazer `git add` e `git commit` para concluir o merge.
 
 
 
-### 📝 **aula3**
+# 📝 Aula 03 - Repositório Remoto
 
 ## 🌐 Repositório Remoto
 
@@ -867,15 +832,12 @@ Aprendi que o fluxo básico é:
 ```bash
 git remote add origin https://github.com/usuario/repositorio.git
 ```
-### 📝 **aula4**
 
-# 🎯 AULA 4 - Pull Request
+# 📝 AULA 4 - Pull Request
 
 Nesta aula eu aprofundei meu entendimento sobre **Pull Requests (PRs)** no GitHub, que são uma das partes mais importantes do trabalho colaborativo. Aprendi não só como criar PRs, mas também como lidar com conflitos, revisar código e entender o fluxo correto entre repositório local e remoto.
 
 ---
-
-## 📌 PRINCIPAIS TEMÁTICAS
 
 ### 🔄 Direção da PR no GitHub
 Uma Pull Request sempre tem **uma origem (branch de onde vem o código)** e **um destino (branch que vai receber o código)**.  
@@ -967,15 +929,6 @@ Fizemos uma atividade prática onde:
 - E resolvemos seguindo os passos da aula
 
 Essa prática me ajudou a entender que conflitos não são um bicho de sete cabeças — é só saber o fluxo certo.
-
----
-
-### 🏆 Apresentação das páginas de desafio do GitHub
-Vimos também páginas com:
-- Desafios de Git e GitHub  
-- Exercícios para treinar PRs, merges, branches e resolução de conflitos  
-
-Essas páginas servem para praticar tudo o que aprendemos e reforçar o uso do GitHub de forma profissional.
 
 ---
 
